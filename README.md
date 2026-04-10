@@ -45,7 +45,7 @@ I am a passionate **Frontend Web Developer** dedicated to building visually stun
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souldev003&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=souldev003&layout=compact&theme=tokyonight" />
 </p>
 
 ---
