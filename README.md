@@ -37,7 +37,7 @@ I am a passionate **Frontend Web Developer** dedicated to building visually stun
 ### 📊 GitHub Stats & Activity:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souldev003&show_icons=true&theme=tokyonight&title_color=36BCF7&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=souldev003&show_icons=true&theme=tokyonight&title_color=36BCF7&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@ I am a passionate **Frontend Web Developer** dedicated to building visually stun
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souldev003&layout=compact&theme=tokyonight&title_color=36BCF7&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=souldev003&layout=compact&theme=tokyonight&title_color=36BCF7&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
