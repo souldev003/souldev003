@@ -37,7 +37,7 @@ I am a passionate **Frontend Web Developer** dedicated to building visually stun
 ### 📊 GitHub Stats & Activity:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souldev003&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=souldev003&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
