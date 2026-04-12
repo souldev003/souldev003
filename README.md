@@ -24,6 +24,10 @@ I am a passionate **Frontend Web Developer** dedicated to building visually stun
 - 🌱 **Learning:** Deep diving into **Next.js**, advanced **State Management**, and performance optimization.
 - ⚡ **Activity:** Actively contributing to open-source and building utility tools for developers.
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=souldev003&show_icons=true&theme=tokyonight" />
+</p>
+
 ---
 
 ### 🛠 Languages and Tools:
@@ -35,10 +39,6 @@ I am a passionate **Frontend Web Developer** dedicated to building visually stun
 ---
 
 ### 📊 GitHub Stats & Activity:
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=souldev003&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=souldev003&theme=tokyonight&hide_border=true" />
